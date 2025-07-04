@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "llantera-vendedor", "llantera-vendedor\llantera-vendedor.vbproj", "{B32731A8-BAE6-4B4B-9B64-644B8E5F8D1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B32731A8-BAE6-4B4B-9B64-644B8E5F8D1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B32731A8-BAE6-4B4B-9B64-644B8E5F8D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B32731A8-BAE6-4B4B-9B64-644B8E5F8D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B32731A8-BAE6-4B4B-9B64-644B8E5F8D1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9727AE93-65D4-4A89-B7C5-4C53D9F374F0}
+	EndGlobalSection
+EndGlobal
